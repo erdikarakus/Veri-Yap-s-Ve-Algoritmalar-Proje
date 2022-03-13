@@ -1,4 +1,4 @@
-# Veri Yapısı Ve Algoritmalar Proje
+# Veri Yapısı Ve Algoritmalar Proje 1
 ---
 Kodluyoruz bünyesinde Veri Yapısı Ve Algoritmalar Proje dersi kapsamında hazırlanan projedir.
 
